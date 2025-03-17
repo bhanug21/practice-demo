@@ -1,2 +1,2 @@
 # practice-demo
-This is for practice purpose
+This repo is for practice purpose
